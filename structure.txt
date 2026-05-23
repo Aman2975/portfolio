@@ -1,0 +1,19 @@
+PORTFOLIO/
+├── app/
+│   ├── layout.tsx       ← already exists
+│   ├── page.tsx         ← already exists
+│   └── globals.css      ← already exists
+├── components/          ← create this folder
+│   ├── Navbar.tsx
+│   ├── Hero.tsx
+│   ├── About.tsx
+│   ├── Skills.tsx
+│   ├── Projects.tsx
+│   ├── Experience.tsx
+│   ├── Education.tsx
+│   └── Contact.tsx
+├── data/                ← create this folder
+│   └── portfolio.ts     ← all your content here
+├── public/
+│   └── resume.pdf       ← drop your resume here later
+└── ...
