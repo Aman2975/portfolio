@@ -1,6 +1,7 @@
 "use client";
 import { portfolio } from "../data/portfolio";
 import { useState } from "react";
+import { Analytics } from "@vercel/analytics/next"
 
 export default function Home() {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -88,6 +89,8 @@ export default function Home() {
           Resume ↓
         </button>
       </nav>
+
+      <Analytics />
 
       {/* ── HERO ── */}
       <section id="about" style={{ padding: "80px 32px 64px", maxWidth: "860px", margin: "0 auto" }}>
