@@ -1,6 +1,6 @@
 export const portfolio = {
   name: "Amandeep Singh",
-  role: "Backend Developer",
+  role: "Node.js Backend Developer | AI Integration",
   tagline: "Building scalable APIs & real-world systems",
   about:
     "I'm a backend-focused developer Completed my MCA from Punjabi University patiala. I love building clean, scalable systems — from RESTful APIs to authentication flows and database design. Currently open to backend developer internships and entry-level roles in Mohali & Chandigarh or Remote .",
@@ -11,11 +11,11 @@ export const portfolio = {
   resumeUrl: "/resume.pdf",
 
   skills: [
-    { category: "Backend", items: ["Node.js", "Express.js", "REST APIs"] },
-    { category: "Database", items: ["MySQL", "MongoDB"] },
-    { category: "Auth & Security", items: ["JWT", "RBAC", "Middleware"] },
+    { category: "Backend", items: ["Node.js", "Express.js","Nest.js", "REST APIs"] },
+    { category: "Database", items: ["MySQL", "MongoDB","PostgreSQL","Redis"] },
+    { category: "Auth & Security", items: ["JWT", "RBAC", "Middleware","bcrypt",] },
     { category: "Frontend", items: ["HTML", "CSS", "React (basics)"] },
-    { category: "Tools", items: ["Git", "GitHub", "Postman"] },
+    { category: "Tools", items: ["Git", "GitHub", "Postman","vercel","Render","Railway","Docker"] },
     { category: "Languages", items: ["JavaScript", "Python", "TypeScript"] },
   ],
 
@@ -58,6 +58,7 @@ export const portfolio = {
         "Built RESTful APIs with Node.js and Express.js",
         "Implemented JWT authentication & role-based access control",
         "Designed MySQL and MongoDB database schemas",
+        "Integrate LLM apis"
       ],
       current: true,
     },
