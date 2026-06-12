@@ -7,7 +7,7 @@ export const portfolio = {
   location: "Mohali, Punjab, India , Remote",
   email: "amandeep2975@email.com",
   github: "https://github.com/aman2975",
-  linkedin: "www.linkedin.com/in/amandeep2975",
+  linkedin: "https://www.linkedin.com/in/amandeep2975/",
   resumeUrl: "/resume.pdf",
 
   skills: [
