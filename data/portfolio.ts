@@ -1,6 +1,6 @@
 export const portfolio = {
   name: "Amandeep Singh",
-  role: "Node.js Backend Developer | AI Integration",
+  role: "Software Developer | Node.js & AI Integration",
   tagline: "Building scalable APIs & real-world systems",
   about:
     "I'm a backend-focused developer Completed my MCA from Punjabi University patiala. I love building clean, scalable systems — from RESTful APIs to authentication flows and database design. Currently open to backend developer internships and entry-level roles in Mohali & Chandigarh or Remote .",
